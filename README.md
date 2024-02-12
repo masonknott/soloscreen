@@ -6,8 +6,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-SoloScreen
-SoloScreen is a minimalist web application designed to provide a distraction-free video watching experience, particularly beneficial for users seeking to study or focus without the interruptions commonly found on mainstream video platforms. By allowing users to submit and watch video links within a simple, clutter-free interface, SoloScreen aims to enhance productivity and concentration.
+SoloScreen is a simple web application designed to provide a distraction-free video watching experience, particularly beneficial for users seeking to study or focus without the interruptions commonly found on mainstream video platforms. 
 
 A very simple project that I made to play around with jquery and ajax, if I wanted to make this a more advanced project with expanded functionality and user interactivity I would most likely switch to using the youtube API to create something totally different but this served it's purpose.
 
