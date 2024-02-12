@@ -6,7 +6,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-# SoloScreen
+# The app
 
 SoloScreen is a simple web application designed to provide a distraction-free video watching experience. It's particularly beneficial for users seeking to study or focus without the interruptions commonly found on mainstream video platforms. This project was created as a playful exploration of jQuery and AJAX, serving its purpose of facilitating focused video consumption. While initially a basic project, potential future enhancements could include leveraging the YouTube API for expanded functionality and user interactivity.
 
