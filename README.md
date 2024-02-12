@@ -33,4 +33,4 @@ While SoloScreen currently serves its intended purpose, transitioning to a more 
 
 ## Conclusion
 
-SoloScreen is a testament to the power of web technologies in creating focused and user-friendly applications. As it stands, it provides a solid foundation for a more feature-rich and interactive video platform in the future.
+Fun testing ground for something I could see a lot of potential in with expanded development.
